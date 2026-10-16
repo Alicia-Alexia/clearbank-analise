@@ -1,0 +1,34 @@
+{
+  "gerado em": "2026-10-16",
+  "total transacoes validas": 15,
+  "total transacoes invalidas": 5,
+  "resumo mensal": {
+    "2026-01": {
+      "quantidade": 4,
+      "total credito": 5500.0,
+      "total debito": 630.5,
+      "saldo": 4869.5,
+      "maior_valor": 3500.0,
+      "menor_valor": 180.5,
+      "media": 1532.625
+    },
+    "2026-02": {
+      "quantidade": 5,
+      "total credito": 27000.0,
+      "total debito": 640.0,
+      "saldo": 26360.0,
+      "maior_valor": 15000.0,
+      "menor_valor": 120.0,
+      "media": 5528.0
+    },
+    "2026-03": {
+      "quantidade": 6,
+      "total credito": 4000.0,
+      "total debito": 1249.9,
+      "saldo": 2750.1,
+      "maior_valor": 3500.0,
+      "menor_valor": 50.0,
+      "media": 874.9833333333332
+    }
+  }
+}
